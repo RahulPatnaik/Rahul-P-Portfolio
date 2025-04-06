@@ -87,11 +87,11 @@ export const DATA = {
   work: [
     {
       company: "CMU AI Research",
-      //href: "https://atomic.finance",
+      href: "https://atomic.finance",
       badges: [],
       location: "Remote",
       title: "Student Research Intern",
-      //logoUrl: "/atomic.png",
+      logoUrl: "/atomic.png",
       start: "Dec 2024",
       end: "Present",
       description:
@@ -100,10 +100,10 @@ export const DATA = {
     {
       company: "WIRIN Labs (RVCE)",
       badges: [],
-      href: "htthttps://wirin.iisc.ac.in/",
+      href: "https://wirin.iisc.ac.in/",
       location: "Bangalore, India",
       title: "Student Developer",
-      //logoUrl: "/shopify.svg",
+      logoUrl: "",
       start: "Oct 2023",
       end: "Jul 2024",
       description:
@@ -111,11 +111,11 @@ export const DATA = {
     },
     {
       company: "Mark.AI",
-      //href: "https://nvidia.com/",
+      href: "",
       badges: [],
       location: "Remote",
       title: "Co-Founder",
-      //logoUrl: "/nvidia.png",
+      logoUrl: "",
       start: "May 2023",
       end: "Jan 2024",
       description:
@@ -133,9 +133,9 @@ export const DATA = {
     },
     {
       school: "Narayana CO-KAVERI Bhavan",
-      //href: "https://uwaterloo.ca",
+      href: "",
       degree: "Senior High School",
-      //logoUrl: "/waterloo.png",
+      logoUrl: "",
       start: "2021",
       end: "2023",
     },
